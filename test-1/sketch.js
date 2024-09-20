@@ -3,6 +3,6 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(200,0,100);
   text("hello world", 10, 20);
 }
